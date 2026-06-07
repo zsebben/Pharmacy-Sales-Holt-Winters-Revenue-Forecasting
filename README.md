@@ -3,14 +3,14 @@ Pharmaceutical companies and pharmacies often struggle to predict future sales a
 
 Key Challenges
 
-Data quality issues: missing product IDs, inconsistent text formatting and mixed data types.
+  -Data quality issues: missing product IDs, inconsistent text formatting and mixed data types.
 
-Multiple data sources: sales, product, and customer tables must be merged and cleaned before analysis.
+  -Multiple data sources: sales, product, and customer tables must be merged and cleaned before analysis.
 
-Complex patterns: sales data shows both trend and seasonality.
+  -Complex patterns: sales data shows both trend and seasonality.
 
-Business need: pharmacies require accurate forecasts to plan inventory, manage supply chains, and optimize marketing campaigns.
+  -Business need: pharmacies require accurate forecasts to plan inventory, manage supply chains, and optimize marketing campaigns.
 
 Objective
 
-To create a 12‑month revenue forecast using time‑series modeling (Holt–Winters Exponential Smoothing), capturing both trend and seasonality for better business planning.
+  -To create a 12‑month revenue forecast using time‑series modeling (Holt–Winters Exponential Smoothing), capturing both trend and seasonality for better business planning.
