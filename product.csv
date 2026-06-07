@@ -1,0 +1,70 @@
+product_id;drug_name;form;category;manufacturing_cost
+P001;Loratyl One;capsule;painkiller;1534,79
+P002;Bactyron Rapidex;injection;painkiller;2215
+P003;Amoxicillin Trihydrate 500mg;spray;vitamin;1262,89
+P004;Cetirizine Hydrochloride 10mg;injection;painkiller;2362
+P005;Vitamin C Buffered 1000mg;drops;vitamin;1210,24
+P006;Magnesium Citrate 250mg;spray;vitamin;596,79
+P007;Omeprazole Gastro 20mg;drops;vitamin;1565,85
+P008;Diclofenac Sodium 50mg;capsule;vitamin;812,45
+P009;Aspironix Protecta;injection;painkiller;2165
+P010;Pantoprazole Sodium 20mg;injection;painkiller;2099
+P011;Doxycycline Hyclate 100mg;drops;vitamin;1513,52
+P012;Cetyrolin Rapid;capsule;painkiller;12036
+P013;Naproxen Sodium 220mg;syrup;vitamin;1239,23
+P014;Loratadine 10mg;capsule;painkiller;1390,27
+P015;Esomeprazole 20mg;capsule;painkiller;1759,67
+P016;Metformin XR 500mg;injection;vitamin;1344,23
+P017;Atorvexa Forte;capsule;painkiller;1664
+P018;Rosuvastatin 10mg;spray;vitamin;1296,44
+P019;Azithromycin 250mg;capsule;vitamin;494,12
+P020;Clarithromycin 500mg;injection;vitamin;1432,31
+P021;Ranidox Ultra;tablet;painkiller;1163
+P022;Levocetirizine 5mg;injection;vitamin;579,77
+P023;Calcium Carbonate 500mg;drops;vitamin;582,73
+P024;Allerion PollenShield;injection;allergy;457,17
+P025;Ferromaxin 325;capsule;painkiller;1620
+P026;B12 Methylcobalamin 1000mcg;injection;vitamin;851,59
+P027;Probiotic Complex 10B CFU;capsule;vitamin;363,64
+P028;Folivora Premium;tablet;painkiller;1329,4
+P029;Zyxora AirRelief;spray;allergy;892,58
+P030;Pollentra NovaMist;drops;allergy;789
+P031;Pseudoephedrine 60mg;tablet;vitamin;1427,08
+P032;Guaifenesin 200mg;drops;vitamin;400,79
+P033;Hydrocortyl DermActa;tablet;painkiller;1536
+P034;Saline Nasal Spray;spray;vitamin;1949,4
+P035;Antacid Chewable 500mg;capsule;vitamin;1766,93
+P036;Electrolyte Oral Solution;syrup;vitamin;475,11
+P037;Cough Syrup Honey-Lemon;capsule;vitamin;1278,1
+P038;Paraflexa Forte;tablet;painkiller;1872,38
+P039;Fungirox Dermaclin;tablet;painkiller;1587
+P040;Pantorinex 20;tablet;painkiller;1517,43
+P041;Vitamin D3 2000IU;tablet;vitamin;431,1
+P042;Coenzyme Q10 100mg;injection;vitamin;677,1
+P043;Aerolytix KidsCare;drops;allergy;625
+P044;Magnesium B6 Complex;spray;vitamin;1483,31
+P045;Joint Support Glucosamine;injection;vitamin;988,58
+P046;Herbexia CalmSoothe;drops;allergy;646,23
+P047;Immune Booster Complex;tablet;vitamin;1258,96
+P048;Pain Relief Gel 5%;capsule;vitamin;212,94
+P049;Digestive Enzyme Blend;spray;vitamin;612,1
+P050;Iron Sulfate 325mg;capsule;vitamin;1341,62
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
