@@ -4,8 +4,11 @@ Pharmaceutical companies and pharmacies often struggle to predict future sales a
 Key Challenges
 
 Data quality issues: missing product IDs, inconsistent text formatting and mixed data types.
+
 Multiple data sources: sales, product, and customer tables must be merged and cleaned before analysis.
+
 Complex patterns: sales data shows both trend and seasonality.
+
 Business need: pharmacies require accurate forecasts to plan inventory, manage supply chains, and optimize marketing campaigns.
 
 Objective
