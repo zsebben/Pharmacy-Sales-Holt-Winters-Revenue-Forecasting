@@ -1,0 +1,31 @@
+customer_id;company_name;customer_type
+C0001;NexaThera Pharmaceuticals Ltd;pharma
+C0002;ViroGenix Pharma Ltd;pharma
+C0003;HelixCure Biologics Ltd;pharma
+C0004;Ardentis Therapeutics Ltd;pharma
+C0005;Lumora Pharma Solutions Ltd;pharma
+C0006;Meditronix LifeScience Ltd;pharma
+C0007;BioVanta Research Labs Ltd;pharma
+C0008;Curovia Pharma Group Ltd;pharma
+C0009;Athenexia Medical Ltd;pharma
+C0010;Synaptica Therapeutics Ltd;pharma
+C0011;Trionexa Pharma Ltd;pharma
+C0012;Novalure Biopharma Ltd;pharma
+C0013;Aerionyx Medical Sciences Ltd;pharma
+C0014;Celluvance Therapeutics Ltd;pharma
+C0015;Pharmaxion Global Ltd;pharma
+C0016;DM ;non-pharma
+C0017;Auchan ;non-pharma
+C0018;Tesco ;non-pharma
+C0019;Lidl ;non-pharma
+C0020;Aldi ;non-pharma
+C0021;Rossmann ;non-pharma
+C0022;Spar ;non-pharma
+C0023;Metro ;non-pharma
+C0024;Coop ;non-pharma
+C0025;Penny ;non-pharma
+C0026;Pharmacy Agency;pharma
+C0027;MeDi Contur;pharma
+C0028;BioRAD Pharma;pharma
+C0029;Oxygen Pharma;pharma
+C0030;Health4U Ltd;pharma
